@@ -1,0 +1,6 @@
+spring:
+  profiles: dev
+  application: 
+    name: copartdashboard
+message: hello
+
